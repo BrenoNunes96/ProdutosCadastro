@@ -1,8 +1,3 @@
-Fala, Breno! Dei uma olhada no seu repositório. O projeto está seguindo exatamente a estrutura sólida que a Generation ensina: separando as responsabilidades e usando o poder do TypeScript para garantir que a lógica de Medicamentos e Cosméticos não se misture.
-
-Como o seu README anterior era focado no curso em geral, eu ajustei e refinei este novo para ser o "cartão de visitas" oficial desse sistema de farmácia específico.
-
-Aqui está o README pronto para você copiar e colar no seu arquivo README.md:
 
 💊 Sistema de Gestão de Farmácia - Cadastro de Produtos
 <br />
